@@ -1,8 +1,6 @@
 # PBLJ-Assignment-4
 
-## Assignment 1 - Java Fundamentals
-
-### 📖 Chapter 1: Introduction to Java
+### 📖 Chapter 4: Collection Framework and MultiThreading
 
 ### 🔹 Topics Covered:
 - Introduction to Java
