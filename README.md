@@ -3,10 +3,12 @@
 ### 📖 Chapter 4: Collection Framework and MultiThreading
 
 ### 🔹 Topics Covered:
-- Introduction to Java
-- Difference between C++ and Java
-- Keywords, Tokens, Data Types
-- Use of public, private, and protected
+- Collection framework
+- ArrayList, LinkedList, HashMap, TreeMap, HashSet in Java
+- Multithreading in Java
+- Thread Synchronization
+- Thread Priority
+- Thread LifeCycle
 
 ## 📝 Problem Statements
 
